@@ -86,3 +86,46 @@ Focused on understanding business profitability.
 
 ## 3) Sales & Customer Analysis
 
+Focused on customer behavior and sales performance.
+
+## KPIs
+
+* Total Sales
+* Total Orders
+* Average Order Value
+* Unique Customers
+
+## Visualizations
+
+* Top 10 Customers by Sales
+* Sales by Category
+* Sales Distribution by Segment
+* Sales by Country
+* Monthly Sales Trend
+* Customer Detail Table
+
+# Key DAX Measures
+
+Total Sales 
+Total Profit 
+Total Orders 
+Total Quantity 
+Profit Margin % 
+Average Order Value 
+Average Discount 
+Unique Customers
+
+# Key Business Insights
+
+* Technology products generated the highest sales.
+* Consumer was the largest customer segment.
+* Higher discounts were associated with lower profitability.
+* APAC was one of the highest-performing markets.
+* A small group of products generated a significant portion of total profit.
+
+# Dashboard Preview
+
+## Executive Dashboard
+
+<img width="1378" height="776" alt="image" src="https://github.com/user-attachments/assets/95e0ddbd-f21d-4989-aacc-349d8dda6bbb" />
+
