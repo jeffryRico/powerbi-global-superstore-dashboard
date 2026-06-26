@@ -32,6 +32,7 @@ The report follows a Star Schema design.
 
 Fact Table
 * Orders
+
 Dimension Tables
 * Calendar
 * People
