@@ -30,10 +30,10 @@ The project includes data cleaning, star schema modeling, KPI development, and i
 
 The report follows a Star Schema design.
 
-Fact Table
+## Fact Table
 * Orders
 
-Dimension Tables
+## Dimension Tables
 * Calendar
 * People
 * Returns
