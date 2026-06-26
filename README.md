@@ -139,6 +139,7 @@ Unique Customers
 
 # Repository Structure
 
+```text
 powerbi-global-superstore-dashboard 
 │ 
 ├── Dashboard.pbix 
@@ -148,6 +149,7 @@ powerbi-global-superstore-dashboard
 │ ├── profitability-analysis.png 
 │ └── sales-customer-analysis.png 
 └── dataset
+```
 
 # Skills Demonstrated
 
