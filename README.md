@@ -127,7 +127,7 @@ Unique Customers
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](images/executive-dashboard)
 
 ## Profitability Analysis
 
