@@ -136,3 +136,39 @@ Unique Customers
 ## Sales & Customer Analysis
 
 <img width="1378" height="770" alt="image" src="https://github.com/user-attachments/assets/27edb95c-1dfc-45de-b0e8-5b513a0e6fcd" />
+
+# Repository Structure
+
+powerbi-global-superstore-dashboard 
+│ 
+├── Dashboard.pbix 
+├── README.md 
+├── images 
+│ ├── executive-dashboard.png 
+│ ├── profitability-analysis.png 
+│ └── sales-customer-analysis.png 
+└── dataset
+
+# Skills Demonstrated
+
+* Data Cleaning
+* ETL
+* Data Modeling
+* DAX
+* Power Query
+* Business Intelligence
+* Dashboard Design
+* KPI Development
+* Executive Reporting
+* Data Visualization
+
+# Author
+
+Jeffry David Rico Castiblanco
+Mechanical Engineer | Data Analyst | Power BI Developer | Full Stack Developer
+
+LinkedIn:
+https://www.linkedin.com/in/jeffry-rico/
+
+GitHub:
+https://github.com/JeffryRico
