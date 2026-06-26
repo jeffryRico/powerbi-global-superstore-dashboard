@@ -127,15 +127,15 @@ Unique Customers
 
 ## Executive Dashboard
 
-<img width="1378" height="776" alt="image" src="https://github.com/user-attachments/assets/95e0ddbd-f21d-4989-aacc-349d8dda6bbb" />
+![Executive Dashboard](images/executive-dashboard.png)
 
 ## Profitability Analysis
 
-<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/1acfc2c8-8e62-4c19-9c52-f47c0779bd20" />
+![Profitability Analysis](images/profitability-analysis.png)
 
 ## Sales & Customer Analysis
 
-<img width="1378" height="770" alt="image" src="https://github.com/user-attachments/assets/27edb95c-1dfc-45de-b0e8-5b513a0e6fcd" />
+![Sales & Customer Analysis](images/sales-customer-analysis.png)
 
 # Repository Structure
 
